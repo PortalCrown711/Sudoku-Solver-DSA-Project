@@ -97,7 +97,7 @@ sudoku-solver/
 
 ## 🌐 Deployed Project
 🔗 **Live Demo:**  
-(Replace with your actual GitHub Pages link)
+https://portalcrown711.github.io/Sudoku-Solver-DSA-Project/
 
 
 ---
@@ -108,6 +108,7 @@ sudoku-solver/
 - Utkarsh Pandey - 119
 - Aryan Patel - 123
 - Jay Kanade - 66
+- Daksh Joshi - 64
 - Suman Kewat - 68
 - Aditi Patil  - 125
 
